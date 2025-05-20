@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Eu sou o Gustavo Borsato! :D
 
-<!--
-**GustavoBorsato40/GustavoBorsato40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou estudando Python e Javascript.
+- 👯 Busco trabalhar futuramente com desenvolvimento Fullstack ou Cibersegurança
+- 📫 Email para contato : borsato.guga@gmail.com
 
-Here are some ideas to get you started:
+## 📊 Minhas estatísticas no GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoBorsato40&show_icons=true&theme=tokyonight&hide_title=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBorsato40&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoBorsato40&theme=tokyonight)](https://git.io/streak-stats)
