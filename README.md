@@ -1,8 +1,10 @@
 ## Olá! Eu sou o Gustavo Borsato! :D
 
-- 🌱 Atualmente estou estudando Python e Javascript.
-- 👯 Busco trabalhar futuramente com desenvolvimento Fullstack ou Cibersegurança
-- 📫 Email para contato : borsato.guga@gmail.com
+- 🎓 Estudante de **Engenharia de Software** na **FIAP**.  
+- 🌱 Atualmente estou estudando Python e Javascript, e revisando conceitos de HTML e CSS.
+- 👯 Busco trabalhar futuramente com desenvolvimento Fullstack ou Cibersegurança.
+
+---
 
 ## 📊 Minhas estatísticas no GitHub
 
@@ -10,4 +12,27 @@
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBorsato40&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoBorsato40&theme=tokyonight)](https://git.io/streak-stats)
+---
+
+## 🛠️ Tecnologias que utilizadas e sendo estudadas
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📈 Commits Recentes
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GustavoBorsato40&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+## 📫 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-borsato-9877bb316/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](borsato.guga@gmail.com)
+
+---
+
+       ✨🚀
