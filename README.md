@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gustavo Borsato! :D
 
 - 🎓 Estudante de **Engenharia de Software** na **FIAP**.  
-- 🌱 Atualmente estou estudando Python e Javascript, e revisando conceitos de HTML e CSS.
+- 🌱 Atualmente estou estudando Python, Javascript, React, C, e adquirindo conhecimentos WebDev com HTML/CSS.
 - 👯 Busco trabalhar futuramente com desenvolvimento Fullstack ou Cibersegurança.
 
 ---
