@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 Ny github status:
+## 📊 My github status:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoBorsato40&show_icons=true&theme=tokyonight&hide_title=true)
 
@@ -35,7 +35,7 @@
 ## 📫 Contato/Redes Sociais :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-borsato-9877bb316/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](borsato.guga@gmail.com)
+[![borsato.guga@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](borsato.guga@gmail.com)
 
 ---
 
